@@ -1,9 +1,16 @@
-# Hello World, with Angular from scratch !!!
+# Hello World with Angular, from scratch !!!
 
-## Description
+### Description
 The intent of this project is to realize how Angular framework works creating a project from scratch and step by step. 
 This project must not be considered as a base line from other developments that will turn into application runing on productive environtments.
-![alt text for screen readers](https://www.2code.com.mx/static/media/1-sheel-angular.png)
+![angular one sheet](https://www.2code.com.mx/static/media/1-sheel-angular.png)
+
+### Requirements
+
+- [Node.js v18.12.1](https://nodejs.org/es/)
+- [Typescript 4.9.5](https://www.npmjs.com/package/typescript)
+- [Angular CLI 15.2.1](https://angular.io/cli)
+- Empty directory ng-from-scratch
 
 ### 1) Init Node.js project
 

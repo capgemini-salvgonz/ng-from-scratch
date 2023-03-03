@@ -1,5 +1,10 @@
 # Hello World, with Angular from scratch !!!
 
+## Description
+The intent of this project is to realize how Angular framework works creating a project from scratch and step by step. 
+This project must not be considered as a base line from other developments that will turn into application runing on productive environtments.
+![alt text for screen readers](https://www.2code.com.mx/static/media/1-sheel-angular.png)
+
 ### 1) Init Node.js project
 
 > npm init
